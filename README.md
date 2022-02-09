@@ -1,2 +1,4 @@
-# MyFirstRepository
-My first step to GitHub
+# WebUI
+
+## About
+This is my first project on GitHub. Have fun!
